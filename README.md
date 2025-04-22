@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Redux Toolkit, PostgreSQL, Go, TypeScript, and Node.js**
 
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/togrulaliyev/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/toghrulaliyev/)
 
 ---
 
@@ -58,8 +58,7 @@
 ### 📌 Featured Projects
 
 - 💼 [My Personal Portfolio](https://togrulaliyev.com/)
-- 📚 [Book Search App](https://github.com/togrulaliyev/book-search-app)
-- 🧮 [LeetCode Solutions](https://github.com/togrulaliyev/leetcode-solutions)
+- 🧮 [LeetCode Solutions](https://leetcode.com/u/ToghrulAliyev/)
 
 ---
 
